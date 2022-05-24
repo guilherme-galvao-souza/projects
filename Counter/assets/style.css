@@ -8,11 +8,11 @@ h1{
     justify-content: center;
     color: rgb(18, 41, 247);
 }
-.botoes{
+.buttons{
     display: flex;
     justify-content: center;
 }
-.botao{
+.button{
     font-family: 'Poppins', sans-serif;
     background-color: rgba(106, 220, 240, 0.582);
     border: 0;
@@ -21,11 +21,11 @@ h1{
     height: 100px;
     font-size: 48px;
 }
-.botao:hover{
+.button:hover{
     background-color:rgba(67, 233, 255, 0.795) ;
     cursor: pointer;
 }
-.resultado{
+.result{
     font-size: 100px;   
     font-family: 'Poppins', sans-serif;
     padding: 0 70px 0 70px;
